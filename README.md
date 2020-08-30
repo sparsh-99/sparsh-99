@@ -47,12 +47,14 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### <details>
+<details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="left"> <img width="450" align = "left" src="https://github-readme-stats.vercel.app/api?username=sparsh-99&count_private=true&show_icons=true&theme=gotham" alt="sparsh_garg" />
+  
+</details>
 
 <a href="https://github.com/sparsh-99/github-readme-stats">
   <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-99&layout=compact&theme=radical" />
 </a>
-</details>
+
