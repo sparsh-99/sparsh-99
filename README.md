@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/Sparsh-99#8856">
   <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -26,14 +26,16 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
   
-**Talking about Personal Stuffs:**
+  
+#### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[My Resume](https://drive.google.com/file/d/1oZN4lisc-KaEdMvmtd7W-LIG32VahG66/view)
 
-**Languages and Tools:**  
+
+#### **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -45,12 +47,12 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<details>
+#### <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="left"> <img width="460" align = "left" src="https://github-readme-stats.vercel.app/api?username=sparsh-99&count_private=true&show_icons=true&theme=gotham" alt="sparsh_garg" />
 
-</details>
 <a href="https://github.com/sparsh-99/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-99&layout=compact&theme=radical" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-99&layout=compact&theme=radical" />
 </a>
+</details>
