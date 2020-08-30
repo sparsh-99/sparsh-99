@@ -48,7 +48,7 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="left"> <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sparsh-99&count_private=true&show_icons=true&theme=gotham" alt="sparsh_garg" />
+<p align="left"> <img width="400" align = "left" src="https://github-readme-stats.vercel.app/api?username=sparsh-99&count_private=true&show_icons=true&theme=gotham" alt="sparsh_garg" />
 
 </details>
 <a href="https://github.com/sparsh-99/github-readme-stats">
