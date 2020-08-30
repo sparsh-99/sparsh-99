@@ -47,7 +47,23 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
+---
+
+<strong>👣 Recent GitHub Activity</strong>
+
+<!--START_SECTION:activity-->
+1. 🗣 Reviewed PR on [#134](https://github.com/Netflix/netflix.github.com/pull/136) in [Netflix/netflix](https://github.com/Netflix/netflix)
+2. 🗣 Reviewed PR on [#148](https://github.com/Netflix/netflix.github.com/pull/148) in [Netflix/netflix](https://github.com//Netflix/netflix)
+3. &nbsp;❗️&ensp;&nbsp;Openend issue on [#101561](https://github.com/microsoft/vscode/issues/101561) in [microsoft/vscode](https://github.com/microsoft/vscode)
+<!--END_SECTION:activity-->
+
+---
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/sparshgarg07/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+
+---
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
@@ -55,4 +71,3 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
   
  <p align="right"> <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-99&layout=compact&theme=radical" />
 </details>
-
