@@ -1,10 +1,5 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/Sparsh-99#8856">
-  <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/i_am_SparshGarg">
-  <img align="left" alt="Sparsh Garg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/sparshgarg07/">
   <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,7 +12,12 @@
 <a href="https://www.instagram.com/sparsh_garg99/">
   <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://discord.gg/Sparsh-99#8856">
+  <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/i_am_SparshGarg">
+  <img align="left" alt="Sparsh Garg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
 
 <br />
