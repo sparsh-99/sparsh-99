@@ -32,7 +32,7 @@ Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Fro
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[My Resume](https://drive.google.com/file/d/1OYhswwteyrGt9xqrjBVDyFJePEmt5e2o/view)
+- 📝[My Resume](https://drive.google.com/file/d/1OYhswwteyrGt9xqrjBVDyFJePEmt5e2o/view?usp=sharing)
 
 
 ### **Languages and Tools:**  
