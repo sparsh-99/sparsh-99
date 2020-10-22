@@ -1,4 +1,5 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Sparsh Garg</h1>
+<h3 align="center">On a road to Software Engineer</h3>
 
 <a href="https://www.linkedin.com/in/sparshgarg07/">
   <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,16 +23,13 @@
 
 <br />
 
-Hi, I'm [Sparsh Garg](https://sparsh-99.github.io/MyPortfolio/), a Coder and Frontend Web Developer 🚀 from India. Beside's programming, I enjoy travelling.
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
   
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Data Structures and Algorithms; 
-- 💬 Ask me about anything, I am happy to help;
-- 📝[My Resume](https://drive.google.com/file/d/1e8GR4B0fw1s0bo6Y7ODv3QNDq4oHAr29/view?usp=sharing)
+ 🌱 I’m currently learning <b>Data Structures and Algorithms</b>;<br> 
+ 💬 Ask me about anything, I am happy to help;<br>
+ 📝[My Resume](https://drive.google.com/file/d/1e8GR4B0fw1s0bo6Y7ODv3QNDq4oHAr29/view?usp=sharing)<br>
 
 
 ### **Languages and Tools:**  
