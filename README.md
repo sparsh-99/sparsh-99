@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sparsh Garg</h1>
 <h3 align="center">On a road to Software Engineer</h3>
 
-<a href="https://www.linkedin.com/in/sparshgarg07/">
-  <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://sourcerer.io/sparsh-99/">
-  <img align="left" alt="Sparsh's Sourcerer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
-</a>
-<a href="https://t.me/sparshgarg99">
-  <img align="left" alt="Sparsh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/sparsh_garg99/">
-  <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.gg/Sparsh-99#8856">
-  <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/i_am_SparshGarg">
-  <img align="left" alt="Sparsh Garg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sparshgarg07/">
+    <img align="center" alt="Sparsh's LinkedIN" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://sourcerer.io/sparsh-99/">
+    <img align="center" alt="Sparsh's Sourcerer" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
+  </a>
+  <a href="https://www.instagram.com/sparsh_garg99/">
+    <img align="center" alt="Sparsh's Instagram" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://twitter.com/i_am_SparshGarg">
+    <img align="center" alt="Sparsh Garg | Twitter" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
+</p>
 <br />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
