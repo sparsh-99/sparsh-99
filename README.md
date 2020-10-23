@@ -3,17 +3,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sparshgarg07/">
-    <img align="center" alt="Sparsh's LinkedIN" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+    <img align="center" alt="Sparsh's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&ensp;
   <a href="https://sourcerer.io/sparsh-99/">
-    <img align="center" alt="Sparsh's Sourcerer" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
-  </a>
+    <img align="center" alt="Sparsh's Sourcerer" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
+  </a>&ensp;
   <a href="https://www.instagram.com/sparsh_garg99/">
-    <img align="center" alt="Sparsh's Instagram" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+    <img align="center" alt="Sparsh's Instagram" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>&ensp;
   <a href="https://twitter.com/i_am_SparshGarg">
-    <img align="center" alt="Sparsh Garg | Twitter" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+    <img align="center" alt="Sparsh Garg | Twitter" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>&ensp;
   <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
 </p>
 <br />
