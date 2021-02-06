@@ -37,6 +37,8 @@
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666250-e14ec600-eb18-11ea-81e4-59f2a65ff0aa.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
 <!-- Feel free to reach out and introduce yourself :D-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/sparshgarg07/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
@@ -52,4 +54,7 @@
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-99&show_icons=true&hide_border=true&layout=compact&langs_count=8"
     />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-99" height="180em" />
 </p>
