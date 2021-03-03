@@ -22,9 +22,9 @@
   
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>Competitive Programming</b>;<br> 
+ 🌱 I’m currently learning <b>DS & Algo Implementation</b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
- 📝[My Resume](https://drive.google.com/file/d/156cPQ2bAI1ciRmlikpBRiI2ZxZDEV0yL/view?usp=sharing)<br>
+ 📝[My Resume](https://drive.google.com/file/d/1S8eSgt1I7mixzukrsbYAQdJXHecTPHSe/view?usp=sharing)<br>
 
 
 ### **Languages and Tools:**  
