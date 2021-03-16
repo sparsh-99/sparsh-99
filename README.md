@@ -22,7 +22,7 @@
   
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>DS & Algo Implementation</b>;<br> 
+ 🌱 I’m currently learning <b>Data Structures & Algorithm Implementation</b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
  📝[My Resume](https://drive.google.com/file/d/1I0iILO52kWxQnnebe2yfqzP-4GQBsBdO/view?usp=sharing)<br>
 
