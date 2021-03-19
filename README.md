@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/sparshgarg07/">
     <img align="center" alt="Sparsh's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
-  <a href="https://sourcerer.io/sparsh-99/">
+<!--  <a href="https://sourcerer.io/sparsh-99/">
     <img align="center" alt="Sparsh's Sourcerer" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
   </a>&ensp;
+-->
   <a href="https://www.instagram.com/sparsh_garg99/">
     <img align="center" alt="Sparsh's Instagram" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>&ensp;
