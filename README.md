@@ -17,7 +17,6 @@
   <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
 </p>
 <br />
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
   
 ### **Talking about Personal Stuffs:**
