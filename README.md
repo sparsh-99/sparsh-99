@@ -41,7 +41,7 @@
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true&align="center" /">
+  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
 
 <!-- Feel free to reach out and introduce yourself :D-->
