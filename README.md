@@ -39,7 +39,7 @@
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
-<summary>:trophy: Github Profile Trophy</summary>
+### Github Profile Trophy
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
@@ -63,6 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-99&hide_border=true" height="180em" />
 </p>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+### Contribution Graph
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=sparsh-99&theme=xcode" alt="Contribution Graph" align="center" />
