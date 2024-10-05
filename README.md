@@ -23,7 +23,7 @@
 
  🌱 I’m currently learning <b>Data Structures & Algorithm Implementation</b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
- 📝[My Resume](https://drive.google.com/file/d/1ov58YCra-IJtGBYWG12bkvJSpdng-zqZ/view?usp=share_link)<br>
+ 📝[My Resume](https://drive.google.com/file/d/1wxuI1tycMFSjD6wUykuTgS7nDQ_Nwj7H/view?usp=share_link)<br>
 
 
 ### **Languages and Tools:**  
