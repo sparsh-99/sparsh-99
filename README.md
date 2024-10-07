@@ -44,7 +44,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-99&hide_border=true" height="180em" />
 </p>
-
-### Contribution Graph
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=sparsh-99&theme=xcode" alt="Contribution Graph" align="center" />
