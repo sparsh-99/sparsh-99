@@ -25,8 +25,8 @@
 <code><img height="44" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="48" src="https://camo.githubusercontent.com/ac110f4e847b6921793d584c75189c5b98544d342490f96b4fd2f16d785e092f/68747470733a2f2f7777772e616e64706c75732e636f6d2f68732d66732f68756266732f6b61666b616c6f676f2e6a70673f266e616d653d6b61666b616c6f676f2e6a7067"></code>
-<code><img height="44" src="https://github.com/user-attachments/assets/279be3ef-f80c-474f-897c-7b6e12a88de2"></code>
-<code><img height="44" src="https://github.com/user-attachments/assets/9fab3cd0-0539-49fa-b63e-085c4661da48"></code>
+<code><img height="42" src="https://github.com/user-attachments/assets/279be3ef-f80c-474f-897c-7b6e12a88de2"></code>
+<code><img height="42" src="https://github.com/user-attachments/assets/9fab3cd0-0539-49fa-b63e-085c4661da48"></code>
 
 
 ### Github Profile Trophy
