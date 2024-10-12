@@ -13,10 +13,10 @@
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
   
-### **Talking about Personal Stuffs:**
+### **Talking about Personal Stuff:**
 
- 🌱 I’m currently aliging with <b>Apache Kafka and Spring Boot</b>;<br> 
- 💬 Ask me about anything, I am happy to help;<br>
+ 🌱 I’m currently aligning with <b>Apache Kafka and Spring Boot</b>;<br> 
+ 💬 Ask me about anything, and I am happy to help;<br>
  📝[My Resume](https://drive.google.com/file/d/1wxuI1tycMFSjD6wUykuTgS7nDQ_Nwj7H/view?usp=share_link)<br>
 
 
