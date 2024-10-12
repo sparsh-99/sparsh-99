@@ -28,7 +28,6 @@
 <code><img height="42" src="https://github.com/user-attachments/assets/279be3ef-f80c-474f-897c-7b6e12a88de2"></code>
 <code><img height="42" src="https://github.com/user-attachments/assets/9fab3cd0-0539-49fa-b63e-085c4661da48"></code>
 
-
 ### Github Profile Trophy
 
 <p align="center">
