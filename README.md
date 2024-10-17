@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Garg</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer - II</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sparshgarg07/">
     <img align="center" alt="Sparsh's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
