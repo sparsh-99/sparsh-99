@@ -15,7 +15,7 @@
   
 ### **Talking about Personal Stuff:**
 
- 🌱 I’m currently aligning with <b>Apache Kafka and Spring Boot!</b>;<br> 
+ 🌱 I’m currently aligning with <b>Apache Kafka and Spring Boot</b>;<br> 
  💬 Ask me about anything, and I am happy to help;<br>
  📝[My Resume](https://drive.google.com/file/d/1wxuI1tycMFSjD6wUykuTgS7nDQ_Nwj7H/view?usp=share_link)<br>
 
