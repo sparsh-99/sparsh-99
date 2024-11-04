@@ -4,14 +4,6 @@
   <a href="https://www.linkedin.com/in/sparshgarg07/">
     <img align="center" alt="Sparsh's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
-<!--  <a href="https://sourcerer.io/sparsh-99/">
-    <img align="center" alt="Sparsh's Sourcerer" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
-  </a>&ensp;
--->
-  <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=sparsh-99.visitor-badge">
-</p>
-<br />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
   
 ### **Talking about Personal Stuff:**
 
