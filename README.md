@@ -12,7 +12,7 @@
  📝[My Resume](https://drive.google.com/file/d/1wxuI1tycMFSjD6wUykuTgS7nDQ_Nwj7H/view?usp=share_link)<br>
 
 
-### **Languages and Tools:**  
+### **Languages and Tools: **  
 
 <code><img height="44" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
